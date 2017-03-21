@@ -1,7 +1,7 @@
 
 ## acGAN Paper Implementation from the FAST AI courses, Part2
 
-Here is our implementation of the acGAN Paper. The original paper is listed below :
+Here is our implementation (Gidi Shperber and me) of the acGAN Paper. The original paper is listed below :
 
 -	**Face Aging With Conditional Generative Adversarial Networks** | Grigory Antipov, Moez Baccouche, Jean-Luc Dugelay : [Available here](http://arxiv.org/abs/1702.01983)
 
