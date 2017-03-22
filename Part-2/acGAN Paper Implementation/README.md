@@ -1,5 +1,6 @@
+=================================
 
-## acGAN Paper Implementation from the FAST AI courses, Part2
+## acGAN PAPER IMPLEMENTATION (from the FAST AI courses, Part2)
 
 Here is our implementation of the acGAN Paper. [Gidi Shperber](https://github.com/shgidi) and [Me](https://github.com/Kjeanclaude) are from the [Group 8](https://docs.google.com/spreadsheets/d/1KDk38DUlYpMxnZY8HW6e0NzZz9Tp1ngXCx-wpjWYnjI/edit#gid=311141924) of the [FAST AI courses, Part2](http://www.fast.ai/).
 The original paper we used is listed below :
@@ -12,7 +13,7 @@ We plan to implement it with respect to some modifications as our contribution.
 
 =================================
 
-# THE PROCEDURES
+## THE PROCEDURES
 
 The acGAN model proposed in the [acGAN Paper](http://arxiv.org/abs/1702.01983) uses :
 
@@ -30,9 +31,18 @@ Thus, the conditions of acGAN are six-dimensional one-hot vectors.
 6- 
 
 
+=================================
+
+## OUR PERSPECTIVES
+
+- We should introduce **two conditions (age and gender) on the WGAN** 
+
+- We should use the [Age and Gender Classification Dataset](http://www.openu.ac.il/home/hassner/Adience/data.html) of the [***Open University of Israel***](http://www.openu.ac.il/en/pages/default.aspx) (Face Image Project), instead of the ***private IMDB-Wiki cleaned Dataset*** of the paper.
+
+- We should follow the procedures above, extracted from the [acGAN Paper](http://arxiv.org/abs/1702.01983) and bring our innovation where needed (the conditions, the dimensions of the one-hot vectors, etc.).
 
 +++++++++++++++++++++++++++++++++
 
-### Some References
+## SOME REFERENCES
 -	**Age and gender classification using convolutional neural networks** | Gil Levi, Tal Hassner
 [Available here](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/CNN_AgeGenderEstimation.pdf)
