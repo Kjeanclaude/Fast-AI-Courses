@@ -2,7 +2,12 @@
 
 ## acGAN PAPER IMPLEMENTATION (from the FAST AI courses, Part2)
 
-Here is our implementation of the acGAN Paper. [Gidi Shperber](https://github.com/shgidi) and [Me](https://github.com/Kjeanclaude) are from the [Group 8](https://docs.google.com/spreadsheets/d/1KDk38DUlYpMxnZY8HW6e0NzZz9Tp1ngXCx-wpjWYnjI/edit#gid=311141924) of the [FAST AI courses, Part2](http://www.fast.ai/).
+Here is our implementation of the acGAN Paper. 
+
+[Gidi Shperber](https://github.com/shgidi) and [Me](https://github.com/Kjeanclaude) are ***International Fellows*** from the [Group 8](https://docs.google.com/spreadsheets/d/1KDk38DUlYpMxnZY8HW6e0NzZz9Tp1ngXCx-wpjWYnjI/edit#gid=311141924) of the [FAST AI courses, Part2](http://www.fast.ai/).
+
+This course encourages team works, as one of their requirements is to do ***at least one project in a team***. One more valuable particularity of this course is that **Professor Jeremy** shows to its students hints on ***how to convert research papers into projects***.
+
 The original paper we used is listed below :
 
 -	**Face Aging With Conditional Generative Adversarial Networks** | Grigory Antipov, Moez Baccouche, Jean-Luc Dugelay : [Available here](http://arxiv.org/abs/1702.01983)
