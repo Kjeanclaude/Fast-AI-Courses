@@ -46,6 +46,16 @@ Thus, the conditions of acGAN are six-dimensional one-hot vectors.
 
 - We should follow the procedures above, extracted from the [acGAN Paper](http://arxiv.org/abs/1702.01983) and bring our innovation where needed (the conditions, the dimensions of the one-hot vectors, etc.).
 
+
+=================================
+
+## OUR CHALLENGES
+
+- 1- **Extract the Age and Gender classes** from the `Age and Gender Classification Dataset` and make them available through suitable variables.
+- 2- **Match the eight (08) age classes and two (02) gender classes** of the dataset **with the conditions placeholders** of our `agcGAN (Age-Gender Conditional Generative Adversarial Networks)`.
+- 3- **Fine-tune**, optimize to produce the best results as possible.
+- 4- **Reproduce the results in video-streaming** with accurate labels.
+
 +++++++++++++++++++++++++++++++++
 
 ## SOME REFERENCES
