@@ -14,6 +14,8 @@ The original paper we used is listed below :
 
 We plan to implement it with respect to some modifications as our contribution.
 
+**OBJECTIVE :** With this job, our goal is to do some experimentations using GANs (Generative Adversarial Networks). Perhaps this job could be done using other networks such as CNN, but we would like to work on GANs. And there are several types of GANs : **Vanilla GAN, Conditional GAN, InfoGAN, Wasserstein GAN, Mode Regularized GAN, Coupled GAN, Auxiliary Classifier GAN, Least Squares GAN, Boundary Seeking GAN, Energy Based GAN, f-GAN, etc.**
+We should use here at least Conditional GAN.
 
 
 =================================
@@ -61,3 +63,9 @@ Thus, the conditions of acGAN are six-dimensional one-hot vectors.
 ## SOME REFERENCES
 -	**Age and gender classification using convolutional neural networks** | Gil Levi, Tal Hassner
 [Available here](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/CNN_AgeGenderEstimation.pdf)
+
+-	**Conditional Generative Adversarial Nets (GAN) in TensorFlow** | Kristiadi Agustinus
+[Available here](http://wiseodd.github.io/techblog/2016/12/24/conditional-gan-tensorflow/)
+
+-	**Conditional Generative Adversarial Networks (GAN) in Pytorch** | Kristiadi Agustinus
+[Available here](http://wiseodd.github.io/techblog/2017/01/20/gan-pytorch/)
