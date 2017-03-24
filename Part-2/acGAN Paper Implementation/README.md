@@ -61,11 +61,17 @@ Thus, the conditions of acGAN are six-dimensional one-hot vectors.
 +++++++++++++++++++++++++++++++++
 
 ## SOME REFERENCES
--	**Age and gender classification using convolutional neural networks** | Gil Levi, Tal Hassner
+-	**Age and gender classification using convolutional neural networks** (The research paper) | Gil Levi, Tal Hassner
 [Available here](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/CNN_AgeGenderEstimation.pdf)
 
--	**Age and gender classification using convolutional neural networks Demo with a pre-trained Caffe Model** | Gil Levi, Tal Hassner
+-	**Age and gender Data Preparation Code in Python** | Gil Levi
+[Available here](https://github.com/GilLevi/AgeGenderDeepLearning)
+
+-	**Age and gender classification using convolutional neural networks Notebook Demo with a pre-trained Caffe Model** | Gil Levi, Tal Hassner
 [Available here](http://nbviewer.jupyter.org/url/www.openu.ac.il/home/hassner/projects/cnn_agegender/cnn_age_gender_demo.ipynb)
+
+-	**Age and gender ALL DOWNLOADS LINKS** | Gil Levi, Tal Hassner
+[Available here](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/)
 
 -	**Conditional Generative Adversarial Nets (GAN) in TensorFlow** | Kristiadi Agustinus
 [Available here](http://wiseodd.github.io/techblog/2016/12/24/conditional-gan-tensorflow/)
