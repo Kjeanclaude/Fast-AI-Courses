@@ -57,6 +57,7 @@ Thus, the conditions of acGAN are six-dimensional one-hot vectors.
 - 2- **Match the eight (08) age classes and two (02) gender classes** of the dataset **with the conditions placeholders** of our `agcGAN (Age-Gender Conditional Generative Adversarial Networks)`.
 - 3- **Fine-tune**, optimize to produce the best results as possible.
 - 4- **Reproduce the results in video-streaming** with accurate labels.
+- 5- As professor Jeremy said: [there hasn't been any conditional WGANs yet](http://forums.fast.ai/t/conditional-gans/1951). So after the challenges above implemented, we could try to turn them into **conditional WGANs**, as a new contribution.
 
 +++++++++++++++++++++++++++++++++
 
