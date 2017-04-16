@@ -14,7 +14,7 @@ The original paper we used is listed below :
 
 We plan to implement it with respect to some modifications as our contribution.
 
-**OBJECTIVE :** With this job, our goal is to do some experimentations using GANs (Generative Adversarial Networks). Perhaps this job could be done using other networks such as CNN, but we would like to work on GANs. And there are several types of GANs : **Vanilla GAN, Conditional GAN, InfoGAN, Wasserstein GAN, Mode Regularized GAN, Coupled GAN, Auxiliary Classifier GAN, Least Squares GAN, Boundary Seeking GAN, Energy Based GAN, f-GAN, etc.**
+**OBJECTIVE :** With this job, our goal is to do some experimentations using GANs (Generative Adversarial Networks). Perhaps this job could be done using other networks such as CNN, but we would like to work on GANs. And there are several types of GANs : **Vanilla GAN, Conditional GAN, InfoGAN, Wasserstein GAN, Mode Regularized GAN, Coupled GAN, Auxiliary Classifier GAN, Least Squares GAN, Boundary Seeking GAN, Energy Based GAN, f-GAN, Context-Conditional GAN(CC-GAN), Semi-Supervised Learning GAN(SSL-GAN), etc.**
 We should use here at least Conditional GAN.
 
 
